@@ -4,7 +4,7 @@ title: "玩转vscode支持PlantUML绘制预览流程图"
 date: 2018-10-12
 tags: [vscode]
 comments: true
-author: lemonchann
+author: wxthxw
 ---
 
 VsCode 强大地自定义功能，已经成为程序员最爱编辑器。   

@@ -4,7 +4,7 @@ title: "新版本gitbook配置图书预览和生成"
 date:   2019-11-18
 tags: [tool]
 comments: true
-author: lemonchann
+author: wxthxw
 
 ---
 

@@ -64,8 +64,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
+  clientID: 5f1a424a6b9f632c5555
+  clientSecret: 8e4ecc13dda6d1cbabe7e075f62fc9770799fafe
   repo: wxthxw.github.io
   owner: wxthxw
 

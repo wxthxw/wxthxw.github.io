@@ -4,7 +4,7 @@ title: "可能是最全面的github pages搭建个人博客教程"
 date:   2019-11-22
 tags: [geek]
 comments: true
-author: lemonchann
+author: wxthxw
 ---
 
 傻瓜式一站式教你用github pages 来搭建博客，详细记录全过程。
